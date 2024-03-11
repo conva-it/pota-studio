@@ -611,6 +611,12 @@ a {
   justify-items: center;
 }
 
+.spacing-lg.center.mobile-left {
+  width: 100%;
+  flex: 0 auto;
+  display: block;
+}
+
 .arrow-link {
   height: 28px;
   letter-spacing: .5px;
