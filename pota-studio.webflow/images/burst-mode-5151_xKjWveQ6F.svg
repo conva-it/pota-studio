@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Burst Mode</title>
+  <desc>A solid styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#fcb614" d="M18 22h44v36H18z"></path>
+  <path data-name="layer1" fill="#fcb614" d="M46 10V6H2v36h4V10h40z"></path>
+  <path data-name="layer1" fill="#fcb614" d="M54 18v-4H10v36h4V18h40z"></path>
+</svg>
